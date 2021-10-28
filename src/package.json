@@ -1,0 +1,13 @@
+{
+  "name": "react-router-example",
+  "version": "0.0.0",
+  "description": "Render three pages dynamically and have the Router preserve the browser history to ensure bookmarks work and improve the site navigation",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "latest",
+    "react-scripts": "2.0.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": []
+}
